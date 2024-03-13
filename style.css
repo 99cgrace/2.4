@@ -1,0 +1,22 @@
+/* ORIGINAL TASK PUPILS STARTED WITH
+Full credit to code.org for task */
+  
+body {
+  background: white;
+}
+
+h1 {
+color: rebeccapurple;
+  font-family: serif;
+  background-color: beige; /*changed color, font, and highlight*/
+}
+h3 {
+  color:aliceblue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: yellow; /*changed color, font, and highlight*/
+}
+p {
+  color: greenyellow;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: orange; /*changed color, font, and highlight*/
+}
